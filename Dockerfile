@@ -2,7 +2,7 @@ FROM amazonlinux
 MAINTAINER Luciano Mammino <https://loige.co>
 ARG NODE_VERSION=8.10.0
 
-RUN yum groupinstall -y -q "Development Tools"
+RUN yum groupinstall -yq "Development Tools"
 
 # The /var/lang is where AWS installs Node.
 RUN mkdir -p /tmp; \
