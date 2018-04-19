@@ -3,7 +3,8 @@
 [![Docker Stars](https://img.shields.io/docker/stars/loige/lambda-runtime-node8.svg)](https://hub.docker.com/r/loige/lambda-runtime-node8/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/loige/lambda-runtime-node8.svg)](https://hub.docker.com/r/loige/lambda-runtime-node8/)
 
-Docker container image that resembles AWS lambda runtime for Node.js 8.10.0
+Docker container image that resembles AWS lambda runtime for Node.js 8.10.0.
+It can be used for manual or automated testing
 
 
 ## 💾 Install
